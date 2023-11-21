@@ -1,0 +1,234 @@
+[
+    {
+        "account_number": 123456,
+        "pin": 5678,
+        "loans": [
+            {
+                "loan_id": 1,
+                "loan_type": "Home Loan",
+                "interest_rate": 5.2,
+                "loan_date": "2023-11-01",
+                "loan_allocation": 50000,
+                "remaining_payment": 35000,
+                "loan_amount": 50000,
+                "amount_paid": 15000,
+                "transactions": [
+                    {"date": "2023-11-05", "amount_paid": 5000, "time": "10:30:00"},
+                    {"date": "2023-12-01", "amount_paid": 10000, "time": "14:15:00"}
+                ]
+            },
+            {
+                "loan_id": 2,
+                "loan_type": "Car Loan",
+                "interest_rate": 6.8,
+                "loan_date": "2023-08-15",
+                "loan_allocation": 40000,
+                "remaining_payment": 20000,
+                "loan_amount": 40000,
+                "amount_paid": 40000,
+                "transactions": [
+                    {"date": "2023-09-20", "amount_paid": 5000, "time": "11:45:00"},
+                    {"date": "2023-10-22", "amount_paid": 15000, "time": "09:30:00"},
+                    {"date": "2023-11-25", "amount_paid": 25000, "time": "13:20:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "account_number": 987654,
+        "pin": 5432,
+        "loans": [
+            {
+                "loan_id": 3,
+                "loan_type": "Education Loan",
+                "interest_rate": 4.5,
+                "loan_date": "2023-10-05",
+                "loan_allocation": 30000,
+                "remaining_payment": 20000,
+                "loan_amount": 30000,
+                "amount_paid": 12000,
+                "transactions": [
+                    {"date": "2023-11-10", "amount_paid": 7000, "time": "12:00:00"},
+                    {"date": "2023-12-03", "amount_paid": 5000, "time": "15:45:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "account_number": 246801,
+        "pin": 1357,
+        "loans": [
+            {
+                "loan_id": 4,
+                "loan_type": "Personal Loan",
+                "interest_rate": 7.2,
+                "loan_date": "2023-09-20",
+                "loan_allocation": 25000,
+                "remaining_payment": 17000,
+                "loan_amount": 25000,
+                "amount_paid": 23000,
+                "transactions": [
+                    {"date": "2023-10-10", "amount_paid": 8000, "time": "10:00:00"},
+                    {"date": "2023-11-05", "amount_paid": 15000, "time": "13:30:00"}
+                ]
+            },
+            {
+                "loan_id": 5,
+                "loan_type": "Business Loan",
+                "interest_rate": 6.5,
+                "loan_date": "2023-12-10",
+                "loan_allocation": 45000,
+                "remaining_payment": 30000,
+                "loan_amount": 45000,
+                "amount_paid": 15000,
+                "transactions": [
+                    {"date": "2023-12-15", "amount_paid": 5000, "time": "09:45:00"},
+                    {"date": "2023-12-30", "amount_paid": 10000, "time": "14:00:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "account_number": 987623,
+        "pin": 1111,
+        "loans": [
+            {
+                "loan_id": 6,
+                "loan_type": "Mortgage Loan",
+                "interest_rate": 4.2,
+                "loan_date": "2023-07-08",
+                "loan_allocation": 75000,
+                "remaining_payment": 50000,
+                "loan_amount": 75000,
+                "amount_paid": 30000,
+                "transactions": [
+                    {"date": "2023-08-10", "amount_paid": 15000, "time": "12:30:00"},
+                    {"date": "2023-09-05", "amount_paid": 15000, "time": "16:45:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "account_number": 654321,
+        "pin": 4321,
+        "loans": [
+            {
+                "loan_id": 7,
+                "loan_type": "Personal Loan",
+                "interest_rate": 6.7,
+                "loan_date": "2023-09-15",
+                "loan_allocation": 35000,
+                "remaining_payment": 25000,
+                "loan_amount": 35000,
+                "amount_paid": 19000,
+                "transactions": [
+                    {"date": "2023-10-01", "amount_paid": 9000, "time": "11:00:00"},
+                    {"date": "2023-11-05", "amount_paid": 10000, "time": "13:30:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "account_number": 456789,
+        "pin": 9999,
+        "loans": [
+            {
+                "loan_id": 8,
+                "loan_type": "Vehicle Loan",
+                "interest_rate": 5.9,
+                "loan_date": "2023-06-22",
+                "loan_allocation": 28000,
+                "remaining_payment": 20000,
+                "loan_amount": 28000,
+                "amount_paid": 12000,
+                "transactions": [
+                    {"date": "2023-07-15", "amount_paid": 8000, "time": "10:30:00"},
+                    {"date": "2023-08-20", "amount_paid": 4000, "time": "14:45:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "account_number": 753159,
+        "pin": 7890,
+        "loans": [
+            {
+                "loan_id": 9,
+                "loan_type": "Education Loan",
+                "interest_rate": 3.9,
+                "loan_date": "2023-11-28",
+                "loan_allocation": 40000,
+                "remaining_payment": 30000,
+                "loan_amount": 40000,
+                "amount_paid": 20000,
+                "transactions": [
+                    {"date": "2023-12-10", "amount_paid": 10000, "time": "12:00:00"},
+                    {"date": "2023-12-25", "amount_paid": 10000, "time": "15:30:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "account_number": 369852,
+        "pin": 2468,
+        "loans": [
+            {
+                "loan_id": 10,
+                "loan_type": "Home Improvement Loan",
+                "interest_rate": 6.3,
+                "loan_date": "2023-04-14",
+                "loan_allocation": 55000,
+                "remaining_payment": 35000,
+                "loan_amount": 55000,
+                "amount_paid": 30000,
+                "transactions": [
+                    {"date": "2023-05-01", "amount_paid": 10000, "time": "09:30:00"},
+                    {"date": "2023-06-05", "amount_paid": 20000, "time": "14:45:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "account_number": 246802,
+        "pin": 2468,
+        "loans": [
+            {
+                "loan_id": 11,
+                "loan_type": "Medical Loan",
+                "interest_rate": 4.8,
+                "loan_date": "2023-10-20",
+                "loan_allocation": 20000,
+                "remaining_payment": 12000,
+                "loan_amount": 20000,
+                "amount_paid": 8000,
+                "transactions": [
+                    {"date": "2023-11-10", "amount_paid": 4000, "time": "11:30:00"},
+                    {"date": "2023-12-05", "amount_paid": 4000, "time": "14:15:00"}
+                ]
+            }
+        ]
+    },
+    {
+        "account_number": 135792,
+        "pin": 7890,
+        "loans": [
+            {
+                "loan_id": 12,
+                "loan_type": "Vacation Loan",
+                "interest_rate": 6.0,
+                "loan_date": "2023-09-08",
+                "loan_allocation": 15000,
+                "remaining_payment": 7500,
+                "loan_amount": 15000,
+                "amount_paid": 7500,
+                "transactions": [
+                    {"date": "2023-10-01", "amount_paid": 2500, "time": "09:00:00"},
+                    {"date": "2023-11-15", "amount_paid": 5000, "time": "12:30:00"}
+                ]
+            }
+        ]
+    }
+    
+]
+        
+    

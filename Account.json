@@ -1,0 +1,92 @@
+[
+    {
+        "account_number": 1234,
+        "pin": 5678,
+        "balance": 5000,
+        "transactions": [
+            {"type": "withdrawal", "amount": 100, "timestamp": "2023-11-20 10:15:30"},
+            {"type": "withdrawal", "amount": 300, "timestamp": "2023-11-21 12:45:00"}
+        ]
+    },
+    {
+        "account_number": 9876,
+        "pin": 5432,
+        "balance": 3000,
+        "transactions": [
+            {"type": "withdrawal", "amount": 200, "timestamp": "2023-11-19 08:30:20"},
+            {"type": "withdrawal", "amount": 150, "timestamp": "2023-11-22 09:20:45"}
+        ]
+    },
+    {
+        "account_number": 2468,
+        "pin": 1357,
+        "balance": 7000,
+        "transactions": [
+            {"type": "deposit", "amount": 1000, "timestamp": "2023-11-18 14:20:10"},
+            {"type": "withdrawal", "amount": 600, "timestamp": "2023-11-23 16:55:30"}
+        ]
+    },
+    {
+        "account_number": 5432,
+        "pin": 9876,
+        "balance": 2500,
+        "transactions": [
+            {"type": "withdrawal", "amount": 150, "timestamp": "2023-11-24 09:30:45"},
+            {"type": "withdrawal", "amount": 100, "timestamp": "2023-11-25 11:10:20"}
+        ]
+    },
+    {
+        "account_number": 7890,
+        "pin": 2468,
+        "balance": 6000,
+        "transactions": [
+            {"type": "deposit", "amount": 200, "timestamp": "2023-11-26 13:40:15"},
+            {"type": "withdrawal", "amount": 300, "timestamp": "2023-11-27 15:25:50"}
+        ]
+    },
+    {
+        "account_number": 1357,
+        "pin": 1234,
+        "balance": 4500,
+        "transactions": [
+            {"type": "withdrawal", "amount": 250, "timestamp": "2023-11-28 08:55:00"},
+            {"type": "withdrawal", "amount": 150, "timestamp": "2023-11-29 10:45:30"}
+        ]
+    },
+    {
+        "account_number": 5678,
+        "pin": 7890,
+        "balance": 3800,
+        "transactions": [
+            {"type": "withdrawal", "amount": 150, "timestamp": "2023-11-30 12:20:40"},
+            {"type": "withdrawal", "amount": 200, "timestamp": "2023-12-01 14:15:10"}
+        ]
+    },
+    {
+        "account_number": 4321,
+        "pin": 8765,
+        "balance": 3200,
+        "transactions": [
+            {"type": "withdrawal", "amount": 100, "timestamp": "2023-12-02 09:10:00"},
+            {"type": "withdrawal", "amount": 150, "timestamp": "2023-12-03 11:30:45"}
+        ]
+    },
+    {
+        "account_number": 8765,
+        "pin": 4321,
+        "balance": 5500,
+        "transactions": [
+            {"type": "deposit", "amount": 200, "timestamp": "2023-12-04 13:20:30"},
+            {"type": "withdrawal", "amount": 250, "timestamp": "2023-12-05 15:45:20"}
+        ]
+    },
+    {
+        "account_number": 2469,
+        "pin": 1358,
+        "balance": 4800,
+        "transactions": [
+            {"type": "withdrawal", "amount": 150, "timestamp": "2023-12-06 08:40:00"},
+            {"type": "withdrawal", "amount": 300, "timestamp": "2023-12-07 10:55:40"}
+        ]
+    }
+]
